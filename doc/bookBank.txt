@@ -1,0 +1,56 @@
+1#Brigitte Giraud#Vivre Vite#roman#456#B  
+2#Larry McMurtry#Lonesome Dove#roman#617#A
+3#Christelle Dabos#La passe-miroir#roman#560#A
+4#J.K. Rowling#Harry Potter tome 7#roman#891#A
+5#Alexandre Dumas#Le comte de Monte-Cristo#roman#1495#A
+6#Maurice Druon#Les Rois maudits#roman#1760#A 
+7#Jean-Philippe Jaworski#Gagner la guerre#roman#684#B
+8#Stephen King#La Ligne Verte#roman#507#A
+9#Mélissa Da Costa#Tout le bleu du ciel#roman#840#A
+10#Henri Loevenbruck#J'irais tuer pour vous#roman#950#B
+11#Chris Whitaker#Duchess#polars#528#A
+12#Karine Giebel#Glen Affric#polar#768#A
+13#Don Winslow#La griffe du chien#polar#832#B
+14#Colleen Hoover#Verity#polar#331#B
+15#Karine Giebel#Toutes blessent la dernière tue#974#B
+16#David Simon#Baltimore#polar#982#B
+17#Don Winslow#Cartel#polar#720#B
+18#Ivan Zinberg#Matière noire#thriller#462#A
+19#Ghislain Gilberti#Le festin du serpent#thriller#555#A
+20#René Manzor#Du fond des âges#thriller#414#B
+21#Claire Favan#De nulle part#thriller#384#A
+22#Luca Tahtieazym#Les larmes écarlates#thriller#360#A
+23#Lisa Jewell#Rentre avant la nuit#thriller#480#A
+24#Angel Arekin#Animaux norturnes, tome 1 : The crow girl#thriller#546#A
+25#Jacques Saussey#L'aigle noir#thriller#528#A
+26#Jean Dardi#Gio#thriller#420#A
+27#Cédric Sire#La saignée#thriller#672#A
+28#Antoine de Saint-Exupéry#Le Petit Prince#classique#97#A
+29#Jane Austen#Orgueil et préjugés#classique#380#A
+30#Alexandre Dumas#Les trois mousquetaires#classique#888#A
+31#Marcel Proust#A la recherche du temps perdu, tome 1 : Du côté de chez Swann#classique#708#A
+32#Arthur Rimbaud#Poésies#poésie#283#A
+33#Jacques Prévert#Paroles#poésie#253#A
+34#Charles Baudelaire#Les fleurs du mal#poésie#374#A
+35#Arthur Rimbaud#Oeuvres complètes#poésie#1224#A
+36#Arthur Rimbaud#Le bateau ivre et autre poèmes#poésie#95#A
+37#v#Les Contemplations#p#634#A
+38#Paul Verlaine#Poèmes saturniens#poésie#222#A
+39#Jean-Paul Sartre#Les mots#autobiographie#210#B
+40#Simone de Beauvoir#La Force de l'âge#autobiographie#693#A
+41#Amelie Nothomb#Métaphysique des tubes#autobiographie#160#B
+42#Amelie Nothomb#Les aérostats#littérature#160#C
+43#Claire Keegan#Ce genre de petites choses#littérature#128#B
+44#Albert Camus#Cher Monsieur Germain,...#littérature#450#A
+45#Philippe Lançon#Le lambeau#récit#512#A
+46#Sylvain Tesson#Bérézina#récit#224#B
+47#Sylvain Tesson#Sur les chemins noirs#récit#133#B
+48#Daniel Arsand#Moi qui ai souri le premier#récit#79#B
+49#Elie Wiesel#La nuit#récit#199#A
+50#Emma Becker#La maison#récit#215#B
+51#v#Le moui moui#roman#54200#F
+51#v#C'était mieux avant#p#542#D
+51#v#Un coup de foudre#p#123#C
+51#v#oh mama#p#666#B
+51#v#oui oui#p#42#A
+51#v#L'amour est dans le blé#p#14242#F
